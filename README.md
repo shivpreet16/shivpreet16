@@ -1,16 +1,30 @@
-### Hi there 👋
+# Shivpreet Padhi
 
-<!--
-**shivpreet16/shivpreet16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</div>
 
-Here are some ideas to get you started:
+I am a CSE student (2021-25) at KIIT School of Computer Engineer. My main areas of interest include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web dev
+- Web3
+- ML
+- Backend Development
+
+My top languages are:
+
+- C/C++
+- JavaScript
+- Python
+- Go
+- Java
+
+Other features that I have experience with are:
+
+- GitHub/GitLab
+- Google Cloud Platform
+- PostgreSQL
+- MySQL
+- Redis
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shivpreet16&theme=react&hide_border=true)](https://git.io/streak-stats)
